@@ -1,6 +1,8 @@
 # HearthCode for Obsidian
 
-Warm, calm dark and light themes for [Obsidian](https://obsidian.md), built from the HearthCode color system. Charcoal-and-paper surfaces with a restrained, editorial syntax palette designed for long reading and writing sessions.
+Warm, calm dark and light themes for [Obsidian](https://obsidian.md), built from the HearthCode color system. The same color language applied to functional Markdown — typed callouts, task states, layered lists, flat code and quote surfaces, and tag pills, kept consistent across edit and reading views.
+
+![HearthCode for Obsidian](./hero.png)
 
 - **Modes:** Dark and Light
 - **Homepage:** https://theme.hearthcode.dev
@@ -20,12 +22,11 @@ Warm, calm dark and light themes for [Obsidian](https://obsidian.md), built from
 
 ## About this repository
 
-This repo is the Obsidian **publish target** for HearthCode. The files here
-(`manifest.json`, `theme.css`, `versions.json`, `screenshot.png`) are generated
-from the HearthCode color system; the source of truth and full multi-platform
-project (VS Code, web, color language) lives in
-[hearth-code/HearthTheme](https://github.com/hearth-code/HearthTheme). Please
-file issues and changes against that repository.
+This repo is the Obsidian **publish target** for HearthCode. Everything here
+(`manifest.json`, `theme.css`, `versions.json`, `screenshot.png`, `hero.png`,
+and this `README.md`) is generated and synced from the source-of-truth monorepo,
+[hearth-code/HearthTheme](https://github.com/hearth-code/HearthTheme) — don't
+edit it here. Please file issues and changes against that repository.
 
 ## License
 
